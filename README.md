@@ -69,7 +69,7 @@ ECommerceApplication/
 1. Clone this repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/BALAJINANI18/BASIC-E-COMMERCE-APPLICATION-USING-JAVA.git
 ```
 
 2. Open the project in your preferred Java IDE.
